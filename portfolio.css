@@ -587,7 +587,7 @@ nav.navbar{
                 display: none;
             }
           }
-@media (max-width:1024px){
+@media only screen and (min-width:426px) and (max-width:1025px){
     .about .skills .single-skill{
         margin-left: 8px;
         margin-right: 0px;
